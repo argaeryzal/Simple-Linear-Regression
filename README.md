@@ -14,5 +14,19 @@ Import the dataset, which is :
 - make method of LinearRegression model named regressor
 - fit the x_train and y_train
 ## 4. Predicting The Test Result
+- making new variabel called y_pred (contains predicting salaries)
+- predict x_test using regressor.predict()
 ## 5. Visualising the Training set Result
+- Scatter plotting x_train and y_train, color is red
+- Plotting x_train and y_pred, color is blue
+- Make title "Salary vs Experience"
+- Make X Label "Years of Experience"
+- Make Y Label "Salary"
+- Show the Visualisation
 ## 6. Visualising the Test set Result
+- Scatter plotting x_test and y_test, color is red
+- Plotting x_train and y_pred, color is blue
+- Make title "Salary vs Experience"
+- Make X Label "Years of Experience"
+- Make Y Label "Salary"
+- Show the Visualisation
