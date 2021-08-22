@@ -10,7 +10,7 @@ Import the dataset, which is :
 - x = iloc Years of Experience
 - y = iloc Salary
 ## 3. Splitting the dataset into the Training Set and Test Set
-- Scikit Learn, import LinearRegression module
+- Scikit Learn, import LinearRegression model
 - make variabel of LinearRegression named regressor
 - fit the x_train and y_train
 ## 4. Predicting The Test Result
