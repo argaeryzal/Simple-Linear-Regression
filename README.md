@@ -30,3 +30,9 @@ Import the dataset, which is :
 - Make X Label "Years of Experience"
 - Make Y Label "Salary"
 - Show the Visualisation
+## 7. Making single Prediction (ex: the salary of an employee with 12 years of experience)
+- Predict the 12 years of experience using regressor.predict()
+- Put 2D array into double square bracket
+## 8. Getting the Final Linear Regression Equation with Values of the Coefficients
+- Find coefficients using regressor object
+- Find intercept using regressor object
